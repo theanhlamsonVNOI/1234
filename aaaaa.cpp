@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<conio.h>
-
+using namespace std;
 void nhapmang(int a[], int &n)
 { printf("nhap so phan tu :" );
   scanf("%d",&n);
